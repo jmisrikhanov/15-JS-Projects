@@ -3,4 +3,5 @@
 #2.Counter: https://jm-counter.netlify.app/ \
 #3.Reviews https://jm-reviews.netlify.app/ \
 #4.Navbar https://jm-navbar.netlify.app/  \
-#5.Sidebar https://jm-sidebar.netlify.app/
+#5.Sidebar https://jm-sidebar.netlify.app/ \
+#6.Modal https://jm-modal.netlify.app/
