@@ -4,4 +4,5 @@
 #3.Reviews https://jm-reviews.netlify.app/ \
 #4.Navbar https://jm-navbar.netlify.app/  \
 #5.Sidebar https://jm-sidebar.netlify.app/ \
-#6.Modal https://jm-modal.netlify.app/
+#6.Modal https://jm-modal.netlify.app/ \
+#7.Questions https://jm-questions.netlify.app/
