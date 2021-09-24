@@ -11,5 +11,5 @@
 #10.Scroll https://jm-scroll.netlify.app/ \
 #11.Tabs https://jm-tabs.netlify.app/ \
 #12.Countdown https://jm-countdown.netlify.app/ \
-#13.Lorem Ipsum \
+#13.Lorem Ipsum https://jm-lorem-ipsum.netlify.app/ \
 #14.Grocery
