@@ -13,4 +13,4 @@
 #12.Countdown https://jm-countdown.netlify.app/ \
 #13.Lorem Ipsum https://jm-lorem-ipsum.netlify.app/ \
 #14.Grocery bud https://jm-grocery-bud.netlify.app/ \
-#15.Slider
+#15.Slider https://jm-slider.netlify.app/
